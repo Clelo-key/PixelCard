@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Math", "Math", "{96E0C85D-8298-0AAB-EB9F-E306D776A59B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Math", "src\math\Math.vcxproj", "{AFF4887C-9B2B-8A0D-4418-7010302E060F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PixelCard", "PixelCard.vcxproj", "{C16CAE48-2DD7-62BF-7615-1465E2BE4014}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFF4887C-9B2B-8A0D-4418-7010302E060F}.Debug|x64.ActiveCfg = Debug|x64
+		{AFF4887C-9B2B-8A0D-4418-7010302E060F}.Debug|x64.Build.0 = Debug|x64
+		{AFF4887C-9B2B-8A0D-4418-7010302E060F}.Release|x64.ActiveCfg = Release|x64
+		{AFF4887C-9B2B-8A0D-4418-7010302E060F}.Release|x64.Build.0 = Release|x64
+		{C16CAE48-2DD7-62BF-7615-1465E2BE4014}.Debug|x64.ActiveCfg = Debug|x64
+		{C16CAE48-2DD7-62BF-7615-1465E2BE4014}.Debug|x64.Build.0 = Debug|x64
+		{C16CAE48-2DD7-62BF-7615-1465E2BE4014}.Release|x64.ActiveCfg = Release|x64
+		{C16CAE48-2DD7-62BF-7615-1465E2BE4014}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AFF4887C-9B2B-8A0D-4418-7010302E060F} = {96E0C85D-8298-0AAB-EB9F-E306D776A59B}
+	EndGlobalSection
+EndGlobal

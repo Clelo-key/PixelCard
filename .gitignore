@@ -7,6 +7,7 @@
 *.o
 *.obj
 
+
 # Precompiled Headers
 *.gch
 *.pch
@@ -30,3 +31,10 @@
 *.exe
 *.out
 *.app
+
+# Flder
+build
+git
+.vs
+
+
